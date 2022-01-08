@@ -30,4 +30,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/devang-s-raval/
-[gmail]: devangsraval@gmail.com  
+[gmail]: mailto:devangsraval@gmail.com  
