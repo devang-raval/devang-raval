@@ -1,8 +1,11 @@
 ### Hi there, I'm Devang 👋 
 
-## I'm a Freelancer, Student, and a Friend!!
+## I'm a student in mathematics and data science, as well as a freelancer!!
 
+# About me
 
+- Master Degree Student at University of L'Aquila in Mathematical Engineering and Applied Data Science
+- My main focus is Applied Data Science in Finance  
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Publish my projects on Github
 - ⚡ Fun fact: I love to listen to music and play games
