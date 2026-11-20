@@ -92,15 +92,6 @@ An end-to-end Medallion pipeline (Raw → Bronze → Silver → Gold) that pulls
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devang-raval&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=devang-raval&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ### 🎓 Education
 
 - 🇮🇹 **M.Sc. Mathematical Modelling**, University of L'Aquila *(Drop out)*
